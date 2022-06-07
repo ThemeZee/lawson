@@ -12,8 +12,8 @@
 
 	<!-- wp:post-template -->
 
-		<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"3.5vw"}}}} -->
-		<div class="wp-block-group" style="margin-bottom:3.5vw">
+		<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
+		<div class="wp-block-group" style="margin-bottom:4vw">
 
 			<!-- wp:post-featured-image {"isLink":true,"style":{"spacing":{"margin":{"top":"0px"}}}} /-->
 

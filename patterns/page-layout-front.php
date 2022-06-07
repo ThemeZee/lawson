@@ -7,8 +7,8 @@
 */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"3.5vw","right":"3.5vw","bottom":"3.5vw","left":"3.5vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:3.5vw;padding-right:3.5vw;padding-bottom:3.5vw;padding-left:3.5vw">
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
 
 	<!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"margin":{"bottom":"0px"}}}} -->
 	<div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-bottom:0px">
@@ -59,8 +59,8 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"3.5vw","right":"3.5vw","bottom":"3.5vw","left":"3.5vw"},"blockGap":"2rem","margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"light-gray","layout":{"contentSize":"1200px","wideSize":"1200px"}} -->
-<div class="wp-block-group alignfull has-light-gray-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:3.5vw;padding-right:3.5vw;padding-bottom:3.5vw;padding-left:3.5vw">
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"blockGap":"2rem","margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"light-gray","layout":{"contentSize":"1200px","wideSize":"1200px"}} -->
+<div class="wp-block-group alignfull has-light-gray-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
 
 	<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"2rem"}}} -->
 	<div class="wp-block-columns alignwide">
@@ -127,8 +127,8 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"3.5vw","right":"3.5vw","bottom":"3.5vw","left":"3.5vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:3.5vw;padding-right:3.5vw;padding-bottom:3.5vw;padding-left:3.5vw">
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
 
 	<!-- wp:media-text {"mediaType":"image","verticalAlignment":"center"} -->
 	<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center">
@@ -163,8 +163,8 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"3.5vw","right":"3.5vw","bottom":"3.5vw","left":"3.5vw"},"blockGap":"3rem","margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"dark-gray","textColor":"white","layout":{"contentSize":"1200px","wideSize":"1200px"}} -->
-<div class="wp-block-group alignfull has-white-color has-dark-gray-background-color has-text-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:3.5vw;padding-right:3.5vw;padding-bottom:3.5vw;padding-left:3.5vw">
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"blockGap":"3rem","margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"dark-gray","textColor":"white","layout":{"contentSize":"1200px","wideSize":"1200px"}} -->
+<div class="wp-block-group alignfull has-white-color has-dark-gray-background-color has-text-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
 
 	<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"2rem"}}} -->
 	<div class="wp-block-columns alignwide">
@@ -235,8 +235,8 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"3.5vw","right":"3.5vw","bottom":"3.5vw","left":"3.5vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:3.5vw;padding-right:3.5vw;padding-bottom:3.5vw;padding-left:3.5vw">
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
 
 	<!-- wp:media-text {"mediaPosition":"right","mediaType":"image","verticalAlignment":"center"} -->
 	<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center">
@@ -271,8 +271,8 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"3.5vw","right":"3.5vw","bottom":"3.5vw","left":"3.5vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"dark-gray","textColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
-<div class="wp-block-group alignfull has-white-color has-dark-gray-background-color has-text-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:3.5vw;padding-right:3.5vw;padding-bottom:3.5vw;padding-left:3.5vw">
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"dark-gray","textColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
+<div class="wp-block-group alignfull has-white-color has-dark-gray-background-color has-text-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
 
 	<!-- wp:heading {"textAlign":"center","fontSize":"xx-large"} -->
 	<h2 class="has-text-align-center has-xx-large-font-size"><?php _e( 'Call to Action', 'lincoln' ); ?></h2>
@@ -297,8 +297,8 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"3.5vw","right":"3.5vw","bottom":"3.5vw","left":"3.5vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:3.5vw;padding-right:3.5vw;padding-bottom:3.5vw;padding-left:3.5vw">
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1200px"}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
 
 	<!-- wp:columns {"align":"wide"} -->
 	<div class="wp-block-columns alignwide">
@@ -306,8 +306,8 @@
 		<!-- wp:column {"width":"40%"} -->
 		<div class="wp-block-column" style="flex-basis:40%">
 
-			<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"3.5vw"}}}} -->
-			<h2 style="margin-bottom:3.5vw"><?php _e( 'What we offer', 'lincoln' ); ?></h2>
+			<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
+			<h2 style="margin-bottom:4vw"><?php _e( 'What we offer', 'lincoln' ); ?></h2>
 			<!-- /wp:heading -->
 
 		</div>

@@ -26,8 +26,8 @@
 			<!-- wp:column {"width":"50%"} -->
 			<div class="wp-block-column" style="flex-basis:50%">
 
-				<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"3.5vw"}}}} -->
-				<div class="wp-block-group" style="margin-bottom:3.5vw">
+				<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
+				<div class="wp-block-group" style="margin-bottom:4vw">
 
 					<!-- wp:group {"style":{"spacing":{"blockGap":"0.4em"}},"textColor":"gray","layout":{"type":"flex","allowOrientation":false,"flexWrap":"wrap"},"fontSize":"small"} -->
 					<div class="wp-block-group has-gray-color has-text-color has-small-font-size">
