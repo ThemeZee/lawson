@@ -13,7 +13,7 @@
 
 	<div class="wp-block-cover__inner-container">
 
-		<!-- wp:group {"style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}},"layout":{"type":"default","contentSize":"1200px"}} -->
+		<!-- wp:group {"style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}},"layout":{"type":"default","contentSize":"1280px"}} -->
 		<div class="wp-block-group" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
 
 			<!-- wp:columns {"style":{"spacing":{"blockGap":"0px"}}} -->
