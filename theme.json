@@ -75,11 +75,6 @@
 					"name": "Secondary"
 				},
 				{
-					"slug": "dark-background",
-					"color": "#303030",
-					"name": "Dark Background"
-				},
-				{
 					"slug": "light-gray",
 					"color": "#e0e0e0",
 					"name": "Light Gray"
@@ -88,6 +83,11 @@
 					"slug": "gray",
 					"color": "#808080",
 					"name": "Gray"
+				},
+				{
+					"slug": "dark-gray",
+					"color": "#303030",
+					"name": "Dark Gray"
 				}
 			]
 		},
@@ -130,9 +130,14 @@
 			],
 			"fontSizes": [
 				{
-					"size": "14px",
+					"size": "13px",
 					"slug": "tiny",
 					"name": "Tiny"
+				},
+				{
+					"size": "15px",
+					"slug": "x-small",
+					"name": "Extra Small"
 				},
 				{
 					"size": "16px",

@@ -301,6 +301,12 @@ textarea {
 # - Theme Layout
 --------------------------------------------------------------*/
 
+/* Helper Class until border control is fully available */
+.has-bottom-border {
+	border: none;
+	border-bottom: 1px solid;
+}
+
 /* Block Gap option for columns not yet supported in 5.9.
 Remove CSS when 6.0 is released. */
 .site-content > .wp-block-columns {
@@ -377,7 +383,7 @@ Remove CSS when 6.0 is released. */
 }
 
 .wp-block-site-title a:hover, .wp-block-site-title a:focus, .wp-block-site-title a:active {
-	opacity: 0.6;
+	color: var(--wp--preset--color--primary);
 }
 
 /* Navigation Block */
