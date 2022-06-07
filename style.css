@@ -61,6 +61,7 @@ a {
 a:hover,
 a:focus,
 a:active {
+	color: var(--wp--preset--color--secondary);
 	text-decoration: none;
 }
 
@@ -248,7 +249,7 @@ input[type="submit"] {
 	padding: calc(0.75rem + 2px) calc(1.25rem + 2px);
 	border: none;
 	color: var(--wp--preset--color--white);
-	background-color: var(--wp--preset--color--primary);
+	background-color: var(--wp--preset--color--secondary);
 	text-decoration: none;
 	font-weight: bold;
 	font-size: var(--wp--preset--font-size--normal);
@@ -265,7 +266,7 @@ input[type="button"]:active,
 input[type="reset"]:active,
 input[type="submit"]:active {
 	color: var(--wp--preset--color--white);
-	background-color: var(--wp--preset--color--secondary);
+	background-color: var(--wp--preset--color--dark-gray);
 }
 
 input[type="text"],
@@ -364,7 +365,7 @@ Remove CSS when 6.0 is released. */
 	}
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1280px) {
 	.wp-block-post-content > .alignwide {
 		margin-left: -140px;
 		margin-right: -140px;
@@ -387,7 +388,7 @@ Remove CSS when 6.0 is released. */
 }
 
 .wp-block-site-title a:hover, .wp-block-site-title a:focus, .wp-block-site-title a:active {
-	color: var(--wp--preset--color--primary);
+	color: var(--wp--preset--color--secondary);
 }
 
 /* Navigation Block */
@@ -403,7 +404,7 @@ Remove CSS when 6.0 is released. */
 .wp-block-navigation .wp-block-navigation__container .wp-block-navigation-item .wp-block-navigation__submenu-icon:hover,
 .wp-block-navigation .wp-block-navigation__container .wp-block-navigation-item .wp-block-navigation__submenu-icon:focus,
 .wp-block-navigation .wp-block-navigation__container .wp-block-navigation-item .wp-block-navigation__submenu-icon:active {
-	opacity: 0.6;
+	color: var(--wp--preset--color--secondary);
 }
 
 .wp-block-navigation .wp-block-navigation__container .wp-block-navigation-item .wp-block-navigation__submenu-container {
@@ -417,11 +418,11 @@ Remove CSS when 6.0 is released. */
 /* Post Title Block */
 .wp-block-post-title a {
 	text-decoration: none;
-	color: var(--wp--preset--color--foreground);
+	color: currentColor;
 }
 
 .wp-block-post-title a:hover, .wp-block-post-title a:focus, .wp-block-post-title a:active {
-	color: var(--wp--preset--color--primary);
+	color: var(--wp--preset--color--secondary);
 }
 
 /* Post Author Block */
@@ -440,7 +441,7 @@ Remove CSS when 6.0 is released. */
 	padding: calc(0.75rem + 2px) calc(1.25rem + 2px);
 	border: none;
 	color: var(--wp--preset--color--white);
-	background-color: var(--wp--preset--color--primary);
+	background-color: var(--wp--preset--color--secondary);
 	text-decoration: none;
 	font-weight: bold;
 	font-size: var(--wp--preset--font-size--normal);
@@ -448,7 +449,7 @@ Remove CSS when 6.0 is released. */
 
 .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link:hover, .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link:focus, .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link:active {
 	color: var(--wp--preset--color--white);
-	background-color: var(--wp--preset--color--secondary);
+	background-color: var(--wp--preset--color--dark-gray);
 }
 
 /* Post Comments Block */
@@ -515,7 +516,7 @@ Remove CSS when 6.0 is released. */
 
 .wp-block-button:not(.is-style-outline) .wp-block-button__link:not(.has-background):not(.has-text-color):hover,
 .wp-block-button:not(.is-style-outline) .wp-block-button__link:not(.has-background):not(.has-text-color):active {
-	background-color: var(--wp--preset--color--secondary);
+	background-color: var(--wp--preset--color--dark-gray);
 	text-decoration: none;
 }
 

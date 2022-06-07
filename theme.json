@@ -66,12 +66,12 @@
 			"palette": [
 				{
 					"slug": "primary",
-					"color": "#e34333",
+					"color": "#0890d0",
 					"name": "Primary"
 				},
 				{
 					"slug": "secondary",
-					"color": "#c92919",
+					"color": "#0068a0",
 					"name": "Secondary"
 				},
 				{
@@ -86,7 +86,7 @@
 				},
 				{
 					"slug": "dark-gray",
-					"color": "#303030",
+					"color": "#202020",
 					"name": "Dark Gray"
 				}
 			]
