@@ -350,6 +350,10 @@ Remove CSS when 6.0 is released. */
 	width: auto;
 }
 
+.wp-block-post-content > .alignfull {
+	max-width: 1360px !important;
+}
+
 @media only screen and (min-width: 800px) {
 	.wp-block-post-content > .alignwide,
 	.wp-block-post-content > .alignfull {
@@ -367,8 +371,15 @@ Remove CSS when 6.0 is released. */
 
 @media only screen and (min-width: 1280px) {
 	.wp-block-post-content > .alignwide {
-		margin-left: -140px;
-		margin-right: -140px;
+		margin-left: -150px;
+		margin-right: -150px;
+	}
+}
+
+@media only screen and (min-width: 1360px) {
+	.wp-block-post-content > .alignfull {
+		margin-left: -290px;
+		margin-right: -290px;
 	}
 }
 
