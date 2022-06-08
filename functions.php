@@ -175,17 +175,6 @@ function lincoln_register_block_styles() {
 		'style_handle' => 'lincoln-stylesheet',
 	) );
 
-	// Register Underlined Heading block style.
-	$underlined_heading_style = array(
-		'name'         => 'underlined-heading',
-		'label'        => esc_html__( 'Underlined', 'lincoln' ),
-		'style_handle' => 'lincoln-stylesheet',
-	);
-
-	register_block_style( 'core/heading', $underlined_heading_style );
-	register_block_style( 'core/post-title', $underlined_heading_style );
-	register_block_style( 'core/query-title', $underlined_heading_style );
-
 	// Register Flip Link Hover block style.
 	$link_hover_style = array(
 		'name'         => 'flip-link-hover',

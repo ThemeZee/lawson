@@ -47,7 +47,7 @@
 					</div>
 					<!-- /wp:group -->
 
-					<!-- wp:post-title {"isLink":true,"className":"is-style-underlined-heading","fontSize":"x-large"} /-->
+					<!-- wp:post-title {"isLink":true,"fontSize":"x-large"} /-->
 
 					<!-- wp:post-excerpt {"moreText":"\u003cstrong\u003eContinue reading\u003c/strong\u003e","style":{"spacing":{"margin":{"bottom":"0px"}}}} /-->
 
