@@ -188,5 +188,7 @@ function lincoln_register_block_styles() {
 	register_block_style( 'core/page-list', $link_hover_style );
 	register_block_style( 'core/tag-cloud', $link_hover_style );
 	register_block_style( 'core/site-title', $link_hover_style );
+	register_block_style( 'core/post-date', $link_hover_style );
+	register_block_style( 'core/post-terms', $link_hover_style );
 }
 add_action( 'init', 'lincoln_register_block_styles', 9 );

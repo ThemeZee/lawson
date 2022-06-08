@@ -29,25 +29,11 @@
 				<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
 				<div class="wp-block-group" style="margin-bottom:4vw">
 
-					<!-- wp:group {"style":{"spacing":{"blockGap":"0.4em"}},"textColor":"gray","layout":{"type":"flex","allowOrientation":false,"flexWrap":"wrap"},"fontSize":"small"} -->
-					<div class="wp-block-group has-gray-color has-text-color has-small-font-size">
+					<!-- wp:post-terms {"term":"category","className":"is-style-flip-link-hover"} /-->
 
-						<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}} -->
-						<p style="font-style:normal;font-weight:700"><?php _e( 'Posted on', 'lincoln' ); ?></p>
-						<!-- /wp:paragraph -->
+					<!-- wp:post-title {"isLink":true,"style":{"spacing":{"margin":{"top":"0.75rem"}}},"fontSize":"x-large"} /-->
 
-						<!-- wp:post-date {"isLink":true,"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}} /-->
-
-						<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}} -->
-						<p style="font-style:normal;font-weight:700"><?php _e( 'by', 'lincoln' ); ?></p>
-						<!-- /wp:paragraph -->
-
-						<!-- wp:post-author {"showAvatar":false,"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}} /-->
-
-					</div>
-					<!-- /wp:group -->
-
-					<!-- wp:post-title {"isLink":true,"fontSize":"x-large"} /-->
+					<!-- wp:pattern {"slug":"lincoln/postmeta"} /-->
 
 					<!-- wp:post-excerpt {"moreText":"\u003cstrong\u003eContinue reading\u003c/strong\u003e","style":{"spacing":{"margin":{"bottom":"0px"}}}} /-->
 
