@@ -454,8 +454,7 @@ Remove CSS when 6.0 is released. */
 	color: var(--wp--preset--color--white);
 	background-color: var(--wp--preset--color--secondary);
 	text-decoration: none;
-	font-weight: normal;
-	font-size: var(--wp--preset--font-size--normal);
+	font-size: var(--wp--custom--typography--font-size--button);
 }
 
 .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link:hover, .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link:focus, .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link:active {
