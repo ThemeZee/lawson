@@ -23,7 +23,7 @@
 
 			<!-- wp:pattern {"slug":"lincoln/postmeta"} /-->
 
-			<!-- wp:post-excerpt {"moreText":"Continue reading","style":{"spacing":{"margin":{"bottom":"0px"}}}} /-->
+			<!-- wp:post-excerpt {"moreText":"Continue reading &raquo;","style":{"spacing":{"margin":{"bottom":"0px"}}}} /-->
 
 		</div>
 		<!-- /wp:group -->

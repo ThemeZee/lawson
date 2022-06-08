@@ -35,7 +35,7 @@
 
 					<!-- wp:pattern {"slug":"lincoln/postmeta"} /-->
 
-					<!-- wp:post-excerpt {"moreText":"\u003cstrong\u003eContinue reading\u003c/strong\u003e","style":{"spacing":{"margin":{"bottom":"0px"}}}} /-->
+					<!-- wp:post-excerpt {"moreText":"Continue reading &raquo;","style":{"spacing":{"margin":{"bottom":"0px"}}}} /-->
 
 				</div>
 				<!-- /wp:group -->
