@@ -449,7 +449,7 @@ Remove CSS when 6.0 is released. */
 
 .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link {
 	margin: 0;
-	padding: calc(0.75rem + 2px) calc(1.25rem + 2px);
+	padding: calc(0.6rem + 2px) calc(1rem + 2px);
 	border: none;
 	color: var(--wp--preset--color--white);
 	background-color: var(--wp--preset--color--secondary);
@@ -505,8 +505,17 @@ Remove CSS when 6.0 is released. */
 
 .wp-block-query-pagination .page-numbers {
 	display: inline-block;
-	font-weight: bold;
-	margin-right: 1.5rem;
+	padding: 0.3rem 0.9rem;
+	text-decoration: none;
+}
+
+.wp-block-query-pagination .page-numbers.current {
+	color: var(--wp--preset--color--white);
+	background-color: var(--wp--preset--color--secondary);
+}
+
+.wp-block-query-pagination .page-numbers:hover, .wp-block-query-pagination .page-numbers:focus, .wp-block-query-pagination .page-numbers:active {
+	text-decoration: underline;
 }
 
 /*--------------------------------------------------------------
@@ -531,7 +540,7 @@ Remove CSS when 6.0 is released. */
 }
 
 .wp-block-button__link {
-	padding: calc(0.6rem + 2px) calc(1.2rem + 2px);
+	padding: calc(0.6rem + 2px) calc(1rem + 2px);
 }
 
 /* Search Block */

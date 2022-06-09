@@ -7,7 +7,18 @@
 
 	.page-numbers {
 		display: inline-block;
-		font-weight: bold;
-		margin-right: 1.5rem;
+		padding: 0.3rem 0.9rem;
+		text-decoration: none;
+
+		&.current {
+			color: var(--wp--preset--color--white);
+			background-color: var(--wp--preset--color--secondary);
+		}
+
+		&:hover,
+		&:focus,
+		&:active {
+			text-decoration: underline;
+		}
 	}
 }
