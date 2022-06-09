@@ -462,42 +462,6 @@ Remove CSS when 6.0 is released. */
 	background-color: var(--wp--preset--color--dark-gray);
 }
 
-/* Post Comments Block */
-.wp-block-post-comments .commentlist {
-	margin-bottom: 2rem;
-}
-
-.wp-block-post-comments .commentlist .comment {
-	margin-bottom: var(--wp--custom--spacing--elements);
-}
-
-.wp-block-post-comments .commentlist .comment .comment-metadata {
-	font-size: 15px;
-}
-
-.wp-block-post-comments .commentlist .comment p {
-	margin-top: var(--wp--custom--spacing--elements);
-	margin-bottom: var(--wp--custom--spacing--elements);
-	font-size: inherit;
-	line-height: var(--wp--custom--typography--line-height--text);
-}
-
-.wp-block-post-comments .commentlist .children {
-	margin-top: var(--wp--custom--spacing--elements);
-}
-
-.wp-block-post-comments .comment-respond .comment-reply-title {
-	margin: 0;
-}
-
-.wp-block-post-comments .comment-respond p {
-	font-size: inherit;
-}
-
-.wp-block-post-comments .comment-respond .form-submit {
-	margin-bottom: 0;
-}
-
 /* Query Pagination Block */
 .wp-block-query-pagination > .wp-block-query-pagination-numbers {
 	margin-bottom: 0;
@@ -516,6 +480,11 @@ Remove CSS when 6.0 is released. */
 
 .wp-block-query-pagination .page-numbers:hover, .wp-block-query-pagination .page-numbers:focus, .wp-block-query-pagination .page-numbers:active {
 	text-decoration: underline;
+}
+
+/* Comments Query Block */
+.wp-block-comments-query-loop .comment-form .form-submit {
+	margin-bottom: 0;
 }
 
 /*--------------------------------------------------------------
