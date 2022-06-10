@@ -6,17 +6,17 @@
 */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}},"backgroundColor":"primary","textColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-color has-primary-background-color has-text-color has-background" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"},"margin":{"bottom":"4vw"}}},"backgroundColor":"primary","textColor":"white","layout":{"inherit":false}} -->
+<div class="wp-block-group has-white-color has-primary-background-color has-text-color has-background" style="margin-bottom:4vw;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem">
 
-	<!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
-	<div class="wp-block-columns alignwide are-vertically-aligned-center">
+	<!-- wp:columns {"verticalAlignment":"center"} -->
+	<div class="wp-block-columns are-vertically-aligned-center">
 
 		<!-- wp:column {"verticalAlignment":"center","width":"66.66%"} -->
 		<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%">
 
 			<!-- wp:paragraph {"fontSize":"large"} -->
-			<p class="has-large-font-size">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>Aenean commodo ligula eget dolor.</p>
+			<p class="has-large-font-size">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
 			<!-- /wp:paragraph -->
 
 		</div>
