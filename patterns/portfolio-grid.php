@@ -34,7 +34,7 @@
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:buttons -->
@@ -62,7 +62,7 @@
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:buttons -->
@@ -90,7 +90,7 @@
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:buttons -->
