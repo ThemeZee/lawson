@@ -6,11 +6,11 @@
 */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
+<div class="wp-block-group" style="margin-bottom:4vw">
 
-	<!-- wp:columns {"align":"wide"} -->
-	<div class="wp-block-columns alignwide">
+	<!-- wp:columns -->
+	<div class="wp-block-columns">
 
 		<!-- wp:column {"width":"40%"} -->
 		<div class="wp-block-column" style="flex-basis:40%">
@@ -18,6 +18,10 @@
 			<!-- wp:heading -->
 			<h2><?php _e( 'Why choose us?', 'lincoln' ); ?></h2>
 			<!-- /wp:heading -->
+
+			<!-- wp:paragraph {"fontSize":"large"} -->
+			<p class="has-large-font-size">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+			<!-- /wp:paragraph -->
 
 		</div>
 		<!-- /wp:column -->
@@ -28,12 +32,12 @@
 			<!-- wp:group {"style":{"spacing":{"blockGap":"2rem"}},"layout":{"type":"flex","allowOrientation":false,"flexWrap":"nowrap","verticalAlignment":"top"}} -->
 			<div class="wp-block-group">
 
-				<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}},"textColor":"primary"} -->
-				<p class="has-primary-color has-text-color" style="font-size:72px;line-height:1"><strong>1</strong></p>
+				<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1","fontSize":"64px","fontStyle":"normal","fontWeight":"700"}}} -->
+				<p style="font-size:64px;font-style:normal;font-weight:700;line-height:1">1</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph -->
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 				<!-- /wp:paragraph -->
 
 			</div>
@@ -42,12 +46,12 @@
 			<!-- wp:group {"style":{"spacing":{"blockGap":"2rem"}},"layout":{"type":"flex","allowOrientation":false,"flexWrap":"nowrap","verticalAlignment":"top"}} -->
 			<div class="wp-block-group">
 
-				<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}},"textColor":"primary"} -->
-				<p class="has-primary-color has-text-color" style="font-size:72px;line-height:1"><strong>2</strong></p>
+				<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1","fontSize":"64px","fontStyle":"normal","fontWeight":"700"}}} -->
+				<p style="font-size:64px;font-style:normal;font-weight:700;line-height:1">2</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph -->
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 				<!-- /wp:paragraph -->
 
 			</div>
@@ -56,12 +60,12 @@
 			<!-- wp:group {"style":{"spacing":{"blockGap":"2rem"}},"layout":{"type":"flex","allowOrientation":false,"flexWrap":"nowrap","verticalAlignment":"top"}} -->
 			<div class="wp-block-group">
 
-				<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}},"textColor":"primary"} -->
-				<p class="has-primary-color has-text-color" style="font-size:72px;line-height:1"><strong>3</strong></p>
+				<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1","fontSize":"64px","fontStyle":"normal","fontWeight":"700"}}} -->
+				<p style="font-size:64px;font-style:normal;font-weight:700;line-height:1">3</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph -->
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 				<!-- /wp:paragraph -->
 
 			</div>
@@ -70,12 +74,12 @@
 			<!-- wp:group {"style":{"spacing":{"blockGap":"2rem"}},"layout":{"type":"flex","allowOrientation":false,"flexWrap":"nowrap","verticalAlignment":"top"}} -->
 			<div class="wp-block-group">
 
-				<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}},"textColor":"primary"} -->
-				<p class="has-primary-color has-text-color" style="font-size:72px;line-height:1"><strong>4</strong></p>
+				<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1","fontSize":"64px","fontStyle":"normal","fontWeight":"700"}}} -->
+				<p style="font-size:64px;font-style:normal;font-weight:700;line-height:1">4</p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:paragraph -->
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 				<!-- /wp:paragraph -->
 
 			</div>

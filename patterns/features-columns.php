@@ -6,25 +6,29 @@
 */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"blockGap":"2rem"}},"backgroundColor":"white","layout":{"contentSize":"1280px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
+<div class="wp-block-group" style="margin-bottom:4vw">
 
 	<!-- wp:heading -->
 	<h2><?php _e( 'Why choose us?', 'lincoln' ); ?></h2>
 	<!-- /wp:heading -->
 
-	<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"2rem"}}} -->
-	<div class="wp-block-columns alignwide">
+	<!-- wp:paragraph {"fontSize":"large"} -->
+	<p class="has-large-font-size">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+	<!-- /wp:paragraph -->
+
+	<!-- wp:columns {"style":{"spacing":{"blockGap":"2rem"}}} -->
+	<div class="wp-block-columns">
 
 		<!-- wp:column -->
 		<div class="wp-block-column">
 
-			<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}},"textColor":"primary"} -->
-			<p class="has-primary-color has-text-color" style="font-size:72px;line-height:1"><strong>01</strong></p>
+			<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1","fontSize":"64px","fontStyle":"normal","fontWeight":"700"}}} -->
+			<p style="font-size:64px;font-style:normal;font-weight:700;line-height:1">01</p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 			<!-- /wp:paragraph -->
 
 		</div>
@@ -33,12 +37,12 @@
 		<!-- wp:column -->
 		<div class="wp-block-column">
 
-			<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}},"textColor":"primary"} -->
-			<p class="has-primary-color has-text-color" style="font-size:72px;line-height:1"><strong>02</strong></p>
+			<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1","fontSize":"64px","fontStyle":"normal","fontWeight":"700"}}} -->
+			<p style="font-size:64px;font-style:normal;font-weight:700;line-height:1">02</p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 			<!-- /wp:paragraph -->
 
 		</div>
@@ -47,12 +51,12 @@
 		<!-- wp:column -->
 		<div class="wp-block-column">
 
-			<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}},"textColor":"primary"} -->
-			<p class="has-primary-color has-text-color" style="font-size:72px;line-height:1"><strong>03</strong></p>
+			<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1","fontSize":"64px","fontStyle":"normal","fontWeight":"700"}}} -->
+			<p style="font-size:64px;font-style:normal;font-weight:700;line-height:1">03</p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 			<!-- /wp:paragraph -->
 
 		</div>
@@ -61,12 +65,12 @@
 		<!-- wp:column -->
 		<div class="wp-block-column">
 
-			<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}},"textColor":"primary"} -->
-			<p class="has-primary-color has-text-color" style="font-size:72px;line-height:1"><strong>04</strong></p>
+			<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1","fontSize":"64px","fontStyle":"normal","fontWeight":"700"}}} -->
+			<p style="font-size:64px;font-style:normal;font-weight:700;line-height:1">04</p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 			<!-- /wp:paragraph -->
 
 		</div>
