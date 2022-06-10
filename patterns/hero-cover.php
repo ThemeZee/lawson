@@ -6,14 +6,14 @@
 */
 ?>
 
-<!-- wp:cover {"url":"http://localhost/wp-content/themes/lincoln/assets/img/default-image.png","isRepeated":true,"dimRatio":80,"contentPosition":"center center","align":"full"} -->
-<div class="wp-block-cover alignfull is-repeated" style="background-image:url(http://localhost/wp-content/themes/lincoln/assets/img/default-image.png)">
+<!-- wp:cover {"url":"http://localhost/wp-content/themes/lincoln/assets/img/default-image.png","isRepeated":true,"dimRatio":80,"contentPosition":"center center","align":"wide"} -->
+<div class="wp-block-cover alignwide is-repeated" style="background-image:url(http://localhost/wp-content/themes/lincoln/assets/img/default-image.png)">
 	<span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim"></span>
 
 	<div class="wp-block-cover__inner-container">
 
-	<!-- wp:group {"style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}},"textColor":"white","layout":{"type":"default","contentSize":"800px"}} -->
-	<div class="wp-block-group has-white-color has-text-color" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+	<!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"textColor":"white"} -->
+	<div class="wp-block-group has-white-color has-text-color" style="padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem">
 
 		<!-- wp:paragraph -->
 		<p><?php _e( 'Add a subtitle here', 'lincoln' ); ?></p>

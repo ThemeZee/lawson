@@ -6,17 +6,17 @@
 */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
+<div class="wp-block-group" style="margin-bottom:4vw">
 
-	<!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"margin":{"bottom":"0px"}}}} -->
-	<div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-bottom:0px">
+	<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"margin":{"bottom":"0px"}}}} -->
+	<div class="wp-block-columns are-vertically-aligned-center" style="margin-bottom:0px">
 
 		<!-- wp:column {"verticalAlignment":"center"} -->
 		<div class="wp-block-column is-vertically-aligned-center">
 
-			<!-- wp:heading {"level":1,"style":{"spacing":{"margin":{"top":"0px"}}},"className":"is-style-underlined-heading"} -->
-			<h1 class="is-style-underlined-heading" style="margin-top:0px"><?php _e( 'Embrace the future. <br>Use Full Site Editing now.', 'lincoln' ); ?></h1>
+			<!-- wp:heading {"level":1,"style":{"spacing":{"margin":{"top":"0px"}}}} -->
+			<h1 style="margin-top:0px"><?php _e( 'Embrace the future. <br>Use Full Site Editing now.', 'lincoln' ); ?></h1>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph {"fontSize":"medium"} -->

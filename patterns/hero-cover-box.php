@@ -6,21 +6,21 @@
 */
 ?>
 
-<!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png","dimRatio":30,"contentPosition":"center center","isDark":false,"align":"full"} -->
-<div class="wp-block-cover alignfull is-light">
+<!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png","dimRatio":30,"contentPosition":"center center","isDark":false,"align":"wide"} -->
+<div class="wp-block-cover alignwide is-light">
 	<span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim"></span>
 	<img class="wp-block-cover__image-background" alt="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png" data-object-fit="cover"/>
 
 	<div class="wp-block-cover__inner-container">
 
-		<!-- wp:group {"style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}},"layout":{"type":"default","contentSize":"1280px"}} -->
-		<div class="wp-block-group" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+		<!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}}} -->
+		<div class="wp-block-group" style="padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem">
 
 			<!-- wp:columns {"style":{"spacing":{"blockGap":"0px"}}} -->
 			<div class="wp-block-columns">
 
-			<!-- wp:column {"width":"40%"} -->
-			<div class="wp-block-column" style="flex-basis:40%">
+			<!-- wp:column {"width":"50%"} -->
+			<div class="wp-block-column" style="flex-basis:50%">
 
 				<!-- wp:spacer {"height":"150px"} -->
 				<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -34,7 +34,7 @@
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis.</p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
 					<!-- /wp:paragraph -->
 
 					<!-- wp:buttons -->
@@ -51,8 +51,8 @@
 			</div>
 			<!-- /wp:column -->
 
-			<!-- wp:column {"width":"60%"} -->
-			<div class="wp-block-column" style="flex-basis:60%"></div>
+			<!-- wp:column {"width":"50%"} -->
+			<div class="wp-block-column" style="flex-basis:50%"></div>
 			<!-- /wp:column -->
 
 			</div>
