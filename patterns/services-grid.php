@@ -6,18 +6,22 @@
 */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
+<div class="wp-block-group" style="margin-bottom:4vw">
 
-	<!-- wp:columns {"align":"wide"} -->
-	<div class="wp-block-columns alignwide">
+	<!-- wp:columns -->
+	<div class="wp-block-columns">
 
 		<!-- wp:column {"width":"40%"} -->
 		<div class="wp-block-column" style="flex-basis:40%">
 
-			<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
-			<h2 style="margin-bottom:4vw"><?php _e( 'What we offer', 'lincoln' ); ?></h2>
+			<!-- wp:heading -->
+			<h2><?php _e( 'What we offer', 'lincoln' ); ?></h2>
 			<!-- /wp:heading -->
+
+			<!-- wp:paragraph {"fontSize":"large"} -->
+			<p class="has-large-font-size">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+			<!-- /wp:paragraph -->
 
 		</div>
 		<!-- /wp:column -->
@@ -25,8 +29,8 @@
 		<!-- wp:column {"width":"60%"} -->
 		<div class="wp-block-column" style="flex-basis:60%">
 
-			<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"2rem"}}} -->
-			<div class="wp-block-columns alignwide">
+			<!-- wp:columns {"style":{"spacing":{"blockGap":"2rem"}}} -->
+			<div class="wp-block-columns">
 
 				<!-- wp:column -->
 				<div class="wp-block-column">
@@ -36,7 +40,7 @@
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 					<!-- /wp:paragraph -->
 
 				</div>
@@ -50,7 +54,7 @@
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 					<!-- /wp:paragraph -->
 
 				</div>
@@ -59,8 +63,8 @@
 			</div>
 			<!-- /wp:columns -->
 
-			<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"2rem"}}} -->
-			<div class="wp-block-columns alignwide">
+			<!-- wp:columns {"style":{"spacing":{"blockGap":"2rem"}}} -->
+			<div class="wp-block-columns">
 
 				<!-- wp:column -->
 				<div class="wp-block-column">
@@ -70,7 +74,7 @@
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 					<!-- /wp:paragraph -->
 
 				</div>
@@ -84,7 +88,7 @@
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 					<!-- /wp:paragraph -->
 
 				</div>
