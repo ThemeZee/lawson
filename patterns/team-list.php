@@ -6,11 +6,11 @@
 */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
+<div class="wp-block-group" style="margin-bottom:4vw">
 
-	<!-- wp:columns {"align":"wide"} -->
-	<div class="wp-block-columns alignwide">
+	<!-- wp:columns -->
+	<div class="wp-block-columns">
 
 		<!-- wp:column {"width":"40%"} -->
 		<div class="wp-block-column" style="flex-basis:40%">
@@ -30,7 +30,7 @@
 		<div class="wp-block-column" style="flex-basis:60%">
 
 			<!-- wp:media-text {"mediaType":"image","mediaWidth":40,"verticalAlignment":"center"} -->
-			<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:40% auto">
+			<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:40% auto">
 
 				<figure class="wp-block-media-text__media">
 					<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png" alt=""/>
@@ -38,8 +38,8 @@
 
 				<div class="wp-block-media-text__content">
 
-					<!-- wp:paragraph {"placeholder":"Content…","fontSize":"medium"} -->
-					<p class="has-medium-font-size"><strong>John Doe</strong><br>Founder &amp; CEO</p>
+					<!-- wp:paragraph -->
+					<p><strong>John Doe</strong><br>Founder &amp; CEO</p>
 					<!-- /wp:paragraph -->
 
 				</div>
@@ -48,7 +48,7 @@
 			<!-- /wp:media-text -->
 
 			<!-- wp:media-text {"mediaType":"image","mediaWidth":40,"verticalAlignment":"center"} -->
-			<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:40% auto">
+			<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:40% auto">
 
 				<figure class="wp-block-media-text__media">
 					<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png" alt=""/>
@@ -56,8 +56,8 @@
 
 				<div class="wp-block-media-text__content">
 
-					<!-- wp:paragraph {"placeholder":"Content…","fontSize":"medium"} -->
-					<p class="has-medium-font-size"><strong>Jane Smith</strong><br>Web Developer</p>
+					<!-- wp:paragraph -->
+					<p><strong>Jane Smith</strong><br>Web Developer</p>
 					<!-- /wp:paragraph -->
 
 				</div>
@@ -66,7 +66,7 @@
 			<!-- /wp:media-text -->
 
 			<!-- wp:media-text {"mediaType":"image","mediaWidth":40,"verticalAlignment":"center"} -->
-			<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:40% auto">
+			<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:40% auto">
 
 				<figure class="wp-block-media-text__media">
 					<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png" alt=""/>
@@ -74,8 +74,8 @@
 
 				<div class="wp-block-media-text__content">
 
-					<!-- wp:paragraph {"placeholder":"Content…","fontSize":"medium"} -->
-					<p class="has-medium-font-size"><strong>Mark Miller</strong><br>Online Marketing</p>
+					<!-- wp:paragraph -->
+					<p><strong>Mark Miller</strong><br>Online Marketing</p>
 					<!-- /wp:paragraph -->
 
 				</div>
