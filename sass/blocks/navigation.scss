@@ -7,19 +7,6 @@
 			.wp-block-navigation-item__content {
 				padding: 0.5rem;
 			}
-
-			.wp-block-navigation-item__content,
-			.wp-block-navigation__submenu-icon {
-				&:hover,
-				&:focus,
-				&:active {
-					color: var(--wp--preset--color--secondary);
-				}
-			}
-
-			.wp-block-navigation__submenu-container {
-				padding: 1rem;
-			}
 		}
 	}
 }

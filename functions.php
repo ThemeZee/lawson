@@ -175,6 +175,13 @@ function lincoln_register_block_styles() {
 		'style_handle' => 'lincoln-stylesheet',
 	) );
 
+	// Register Top Navigation block style.
+	register_block_style( 'core/navigation', array(
+		'name'         => 'top-navigation',
+		'label'        => esc_html__( 'Top Navigation', 'lincoln' ),
+		'style_handle' => 'lincoln-stylesheet',
+	) );
+
 	// Register Flip Link Hover block style.
 	$link_hover_style = array(
 		'name'         => 'flip-link-hover',
