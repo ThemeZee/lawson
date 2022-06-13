@@ -25,7 +25,7 @@
 		<!-- wp:column {"verticalAlignment":"center","width":"33.33%"} -->
 		<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
 
-			<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+			<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
 			<div class="wp-block-buttons">
 
 				<!-- wp:button {"backgroundColor":"white","textColor":"primary","className":"is-style-fill"} -->

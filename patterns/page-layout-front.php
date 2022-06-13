@@ -7,42 +7,22 @@
 */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
+<div class="wp-block-group" style="margin-bottom:4vw">
 
-	<!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"margin":{"bottom":"0px"}}}} -->
-	<div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-bottom:0px">
+	<!-- wp:heading {"level":1} -->
+	<h1><?php _e( 'Meet Lincoln Business WordPress Block Theme', 'lincoln' ); ?></h1>
+	<!-- /wp:heading -->
 
-		<!-- wp:column {"verticalAlignment":"center"} -->
-		<div class="wp-block-column is-vertically-aligned-center">
+	<!-- wp:paragraph {"fontSize":"large"} -->
+	<p class="has-large-font-size">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+	<!-- /wp:paragraph -->
 
-			<!-- wp:heading {"level":1,"style":{"spacing":{"margin":{"top":"0px"}}},"className":"is-style-underlined-heading"} -->
-			<h1 class="is-style-underlined-heading" style="margin-top:0px"><?php _e( 'Embrace the future. <br>Use Full Site Editing now.', 'lincoln' ); ?></h1>
-			<!-- /wp:heading -->
+	<!-- wp:columns {"style":{"spacing":{"blockGap":"2rem"}}} -->
+	<div class="wp-block-columns">
 
-			<!-- wp:paragraph {"fontSize":"medium"} -->
-			<p class="has-medium-font-size">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
-			<!-- /wp:paragraph -->
-
-			<!-- wp:buttons {"className":"is-style-default"} -->
-			<div class="wp-block-buttons is-style-default">
-
-				<!-- wp:button -->
-				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lincoln' ); ?></a></div>
-				<!-- /wp:button -->
-
-				<!-- wp:button -->
-				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
-				<!-- /wp:button -->
-
-			</div>
-			<!-- /wp:buttons -->
-
-		</div>
-		<!-- /wp:column -->
-
-		<!-- wp:column {"verticalAlignment":"center"} -->
-		<div class="wp-block-column is-vertically-aligned-center">
+		<!-- wp:column -->
+		<div class="wp-block-column">
 
 			<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
 			<figure class="wp-block-image size-full is-style-default">
@@ -50,101 +30,12 @@
 			</figure>
 			<!-- /wp:image -->
 
-		</div>
-		<!-- /wp:column -->
-
-	</div>
-	<!-- /wp:columns -->
-
-</div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"blockGap":"2rem","margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"light-gray","layout":{"contentSize":"1280px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-light-gray-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
-
-	<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"2rem"}}} -->
-	<div class="wp-block-columns alignwide">
-
-		<!-- wp:column -->
-		<div class="wp-block-column">
-
-			<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}}} -->
-			<p style="font-size:72px;line-height:1"><strong>01</strong></p>
-			<!-- /wp:paragraph -->
-
-			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
-			<!-- /wp:paragraph -->
-
-		</div>
-		<!-- /wp:column -->
-
-		<!-- wp:column -->
-		<div class="wp-block-column">
-
-			<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}}} -->
-			<p style="font-size:72px;line-height:1"><strong>02</strong></p>
-			<!-- /wp:paragraph -->
-
-			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
-			<!-- /wp:paragraph -->
-
-		</div>
-		<!-- /wp:column -->
-
-		<!-- wp:column -->
-		<div class="wp-block-column">
-
-			<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}}} -->
-			<p style="font-size:72px;line-height:1"><strong>03</strong></p>
-			<!-- /wp:paragraph -->
-
-			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
-			<!-- /wp:paragraph -->
-
-		</div>
-		<!-- /wp:column -->
-
-		<!-- wp:column -->
-		<div class="wp-block-column">
-
-			<!-- wp:paragraph {"style":{"typography":{"fontSize":"72px","lineHeight":"1"}}} -->
-			<p style="font-size:72px;line-height:1"><strong>04</strong></p>
-			<!-- /wp:paragraph -->
-
-			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
-			<!-- /wp:paragraph -->
-
-		</div>
-		<!-- /wp:column -->
-
-	</div>
-	<!-- /wp:columns -->
-
-</div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
-
-	<!-- wp:media-text {"mediaType":"image","verticalAlignment":"center"} -->
-	<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center">
-
-		<figure class="wp-block-media-text__media">
-			<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png" alt=""/>
-		</figure>
-
-		<div class="wp-block-media-text__content">
-
 			<!-- wp:heading {"level":3} -->
 			<h3><?php _e( 'Project One', 'lincoln' ); ?></h3>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:buttons -->
@@ -156,103 +47,23 @@
 			<!-- /wp:buttons -->
 
 		</div>
-
-	</div>
-	<!-- /wp:media-text -->
-
-</div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"blockGap":"3rem","margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"dark-gray","textColor":"white","layout":{"contentSize":"1280px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-color has-dark-gray-background-color has-text-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
-
-	<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"2rem"}}} -->
-	<div class="wp-block-columns alignwide">
-
-		<!-- wp:column -->
-		<div class="wp-block-column">
-
-			<!-- wp:group {"style":{"spacing":{"blockGap":"3rem"}},"layout":{"type":"flex","allowOrientation":false,"flexWrap":"nowrap","verticalAlignment":"top"}} -->
-			<div class="wp-block-group">
-
-				<!-- wp:paragraph {"style":{"typography":{"fontSize":"120px","lineHeight":"1"}},"textColor":"primary"} -->
-				<p class="has-primary-color has-text-color" style="font-size:120px;line-height:1">“</p>
-				<!-- /wp:paragraph -->
-
-				<!-- wp:group -->
-				<div class="wp-block-group">
-
-					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
-					<!-- /wp:paragraph -->
-
-					<!-- wp:paragraph -->
-					<p>— John Doe</p>
-					<!-- /wp:paragraph -->
-
-				</div>
-				<!-- /wp:group -->
-
-			</div>
-			<!-- /wp:group -->
-
-		</div>
 		<!-- /wp:column -->
 
 		<!-- wp:column -->
 		<div class="wp-block-column">
 
-			<!-- wp:group {"style":{"spacing":{"blockGap":"3rem"}},"layout":{"type":"flex","allowOrientation":false,"flexWrap":"nowrap","verticalAlignment":"top"}} -->
-			<div class="wp-block-group">
-
-				<!-- wp:paragraph {"style":{"typography":{"fontSize":"120px","lineHeight":"1"}},"textColor":"primary"} -->
-				<p class="has-primary-color has-text-color" style="font-size:120px;line-height:1">“</p>
-				<!-- /wp:paragraph -->
-
-				<!-- wp:group -->
-				<div class="wp-block-group">
-
-					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
-					<!-- /wp:paragraph -->
-
-					<!-- wp:paragraph -->
-					<p>— John Doe</p>
-					<!-- /wp:paragraph -->
-
-				</div>
-				<!-- /wp:group -->
-
-			</div>
-			<!-- /wp:group -->
-
-		</div>
-		<!-- /wp:column -->
-
-	</div>
-	<!-- /wp:columns -->
-
-</div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
-
-	<!-- wp:media-text {"mediaPosition":"right","mediaType":"image","verticalAlignment":"center"} -->
-	<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center">
-
-		<figure class="wp-block-media-text__media">
-			<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png" alt=""/>
-		</figure>
-
-		<div class="wp-block-media-text__content">
+			<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+			<figure class="wp-block-image size-full is-style-default">
+				<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png" alt="">
+			</figure>
+			<!-- /wp:image -->
 
 			<!-- wp:heading {"level":3} -->
 			<h3><?php _e( 'Project Two', 'lincoln' ); ?></h3>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 			<!-- /wp:paragraph -->
 
 			<!-- wp:buttons -->
@@ -264,51 +75,126 @@
 			<!-- /wp:buttons -->
 
 		</div>
+		<!-- /wp:column -->
 
-	</div>
-	<!-- /wp:media-text -->
+		<!-- wp:column -->
+		<div class="wp-block-column">
 
-</div>
-<!-- /wp:group -->
+			<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+			<figure class="wp-block-image size-full is-style-default">
+				<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png" alt="">
+			</figure>
+			<!-- /wp:image -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"dark-gray","textColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-color has-dark-gray-background-color has-text-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+			<!-- wp:heading {"level":3} -->
+			<h3><?php _e( 'Project Three', 'lincoln' ); ?></h3>
+			<!-- /wp:heading -->
 
-	<!-- wp:heading {"textAlign":"center","fontSize":"xx-large"} -->
-	<h2 class="has-text-align-center has-xx-large-font-size"><?php _e( 'Call to Action', 'lincoln' ); ?></h2>
-	<!-- /wp:heading -->
+			<!-- wp:paragraph -->
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+			<!-- /wp:paragraph -->
 
-	<!-- wp:paragraph {"align":"center"} -->
-	<p class="has-text-align-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis diss parturient.</p>
-	<!-- /wp:paragraph -->
+			<!-- wp:buttons -->
+			<div class="wp-block-buttons">
+				<!-- wp:button -->
+				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+				<!-- /wp:button -->
+			</div>
+			<!-- /wp:buttons -->
 
-	<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-	<div class="wp-block-buttons">
-
-		<!-- wp:button {"backgroundColor":"white","textColor":"dark-gray","className":"is-style-fill"} -->
-		<div class="wp-block-button is-style-fill">
-			<a class="wp-block-button__link has-dark-gray-color has-white-background-color has-text-color has-background"><?php _e( 'Join now', 'lincoln' ); ?></a>
 		</div>
-		<!-- /wp:button -->
+		<!-- /wp:column -->
 
 	</div>
-	<!-- /wp:buttons -->
+	<!-- /wp:columns -->
 
 </div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"},"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"white","layout":{"contentSize":"800px","wideSize":"1280px"}} -->
-<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw">
+<?php
+/**
+ * Title: Hero Cover Box
+ * Slug: lincoln/hero-cover-box
+ * Categories: lincoln_hero
+*/
+?>
 
-	<!-- wp:columns {"align":"wide"} -->
-	<div class="wp-block-columns alignwide">
+<!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png","dimRatio":30,"contentPosition":"center center","isDark":false} -->
+<div class="wp-block-cover is-light">
+	<span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim"></span>
+	<img class="wp-block-cover__image-background" alt="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/default-image.png" data-object-fit="cover"/>
+
+	<div class="wp-block-cover__inner-container">
+
+		<!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}}} -->
+		<div class="wp-block-group" style="padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem">
+
+			<!-- wp:columns {"style":{"spacing":{"blockGap":"0px"}}} -->
+			<div class="wp-block-columns">
+
+			<!-- wp:column {"width":"50%"} -->
+			<div class="wp-block-column" style="flex-basis:50%">
+
+				<!-- wp:spacer {"height":"150px"} -->
+				<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+				<!-- /wp:spacer -->
+
+				<!-- wp:group {"style":{"spacing":{"padding":{"top":"3rem","right":"3rem","bottom":"3rem","left":"3rem"}}},"backgroundColor":"white","textColor":"dark-gray"} -->
+				<div class="wp-block-group has-dark-gray-color has-white-background-color has-text-color has-background" style="padding-top:3rem;padding-right:3rem;padding-bottom:3rem;padding-left:3rem">
+
+					<!-- wp:heading -->
+					<h2><?php _e( 'Hero Headline', 'lincoln' ); ?></h2>
+					<!-- /wp:heading -->
+
+					<!-- wp:paragraph -->
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+					<!-- /wp:paragraph -->
+
+					<!-- wp:buttons -->
+					<div class="wp-block-buttons">
+						<!-- wp:button -->
+						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lincoln' ); ?></a></div>
+						<!-- /wp:button -->
+					</div>
+					<!-- /wp:buttons -->
+
+				</div>
+				<!-- /wp:group -->
+
+			</div>
+			<!-- /wp:column -->
+
+			<!-- wp:column {"width":"50%"} -->
+			<div class="wp-block-column" style="flex-basis:50%"></div>
+			<!-- /wp:column -->
+
+			</div>
+			<!-- /wp:columns -->
+
+		</div>
+		<!-- /wp:group -->
+
+	</div>
+
+</div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"4vw"}}}} -->
+<div class="wp-block-group" style="margin-top:4vw">
+
+	<!-- wp:columns -->
+	<div class="wp-block-columns">
 
 		<!-- wp:column {"width":"40%"} -->
 		<div class="wp-block-column" style="flex-basis:40%">
 
-			<!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"4vw"}}}} -->
-			<h2 style="margin-bottom:4vw"><?php _e( 'What we offer', 'lincoln' ); ?></h2>
+			<!-- wp:heading -->
+			<h2><?php _e( 'What we offer', 'lincoln' ); ?></h2>
 			<!-- /wp:heading -->
+
+			<!-- wp:paragraph {"fontSize":"large"} -->
+			<p class="has-large-font-size">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+			<!-- /wp:paragraph -->
 
 		</div>
 		<!-- /wp:column -->
@@ -316,8 +202,8 @@
 		<!-- wp:column {"width":"60%"} -->
 		<div class="wp-block-column" style="flex-basis:60%">
 
-			<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"2rem"}}} -->
-			<div class="wp-block-columns alignwide">
+			<!-- wp:columns {"style":{"spacing":{"blockGap":"2rem"}}} -->
+			<div class="wp-block-columns">
 
 				<!-- wp:column -->
 				<div class="wp-block-column">
@@ -327,7 +213,7 @@
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 					<!-- /wp:paragraph -->
 
 				</div>
@@ -341,7 +227,7 @@
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 					<!-- /wp:paragraph -->
 
 				</div>
@@ -350,8 +236,8 @@
 			</div>
 			<!-- /wp:columns -->
 
-			<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":"2rem"}}} -->
-			<div class="wp-block-columns alignwide">
+			<!-- wp:columns {"style":{"spacing":{"blockGap":"2rem"}}} -->
+			<div class="wp-block-columns">
 
 				<!-- wp:column -->
 				<div class="wp-block-column">
@@ -361,7 +247,7 @@
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 					<!-- /wp:paragraph -->
 
 				</div>
@@ -375,7 +261,7 @@
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
 					<!-- /wp:paragraph -->
 
 				</div>
