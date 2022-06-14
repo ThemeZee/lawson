@@ -237,7 +237,7 @@ figcaption,
 .blocks-gallery-caption {
 	margin-top: 0.5rem;
 	margin-bottom: var(--wp--custom--spacing--elements);
-	color: var(--wp--preset--color--dark-gray);
+	color: var(--wp--preset--color--foreground-accent);
 	font-size: var(--wp--preset--font-size--tiny);
 	text-align: center;
 }
@@ -266,7 +266,7 @@ input[type="button"]:active,
 input[type="reset"]:active,
 input[type="submit"]:active {
 	color: var(--wp--preset--color--white);
-	background-color: var(--wp--preset--color--dark-gray);
+	background-color: var(--wp--preset--color--primary);
 }
 
 input[type="text"],
@@ -448,7 +448,7 @@ Remove CSS when 6.0 is released. */
 
 .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link:hover, .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link:focus, .wp-block-post-excerpt .wp-block-post-excerpt__more-text .wp-block-post-excerpt__more-link:active {
 	color: var(--wp--preset--color--white);
-	background-color: var(--wp--preset--color--dark-gray);
+	background-color: var(--wp--preset--color--primary);
 }
 
 /* Query Pagination Block */
@@ -493,7 +493,7 @@ Remove CSS when 6.0 is released. */
 
 .wp-block-button:not(.is-style-outline) .wp-block-button__link:not(.has-background):not(.has-text-color):hover,
 .wp-block-button:not(.is-style-outline) .wp-block-button__link:not(.has-background):not(.has-text-color):active {
-	background-color: var(--wp--preset--color--dark-gray);
+	background-color: var(--wp--preset--color--primary);
 	text-decoration: none;
 }
 
@@ -654,7 +654,7 @@ Remove CSS when 6.0 is released. */
 .is-style-main-navigation {
 	width: 100%;
 	border-top: 1px solid;
-	border-color: var(--wp--preset--color--light-gray);
+	border-color: var(--wp--preset--color--background-accent);
 }
 
 .is-style-main-navigation .wp-block-navigation__responsive-container-open {

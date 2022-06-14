@@ -75,18 +75,28 @@
 					"name": "Secondary"
 				},
 				{
-					"slug": "light-gray",
-					"color": "#e0e0e0",
-					"name": "Light Gray"
+					"slug": "foreground",
+					"color": "#2e2e2e",
+					"name": "Foreground"
 				},
 				{
-					"slug": "gray",
-					"color": "#808080",
-					"name": "Gray"
+					"slug": "foreground-accent",
+					"color": "#8e8e8e",
+					"name": "Foreground Accent"
+				},
+				{
+					"slug": "background",
+					"color": "#fefefe",
+					"name": "Background"
+				},
+				{
+					"slug": "background-accent",
+					"color": "#dedede",
+					"name": "Background Accent"
 				},
 				{
 					"slug": "dark-gray",
-					"color": "#202020",
+					"color": "#1e1e1e",
 					"name": "Dark Gray"
 				}
 			]
@@ -192,7 +202,7 @@
 				},
 				"color": {
 					"background": "var(--wp--preset--color--primary)",
-					"text": "var(--wp--preset--color--white)"
+					"text": "var(--wp--preset--color--background)"
 				},
 				"typography": {
 					"fontSize": "var(--wp--custom--typography--font-size--button)"
@@ -210,8 +220,8 @@
 			}
 		},
 		"color": {
-			"background": "var(--wp--preset--color--white)",
-			"text": "#202020"
+			"background": "var(--wp--preset--color--background)",
+			"text": "var(--wp--preset--color--foreground)"
 		},
 		"elements": {
 			"h1": {
