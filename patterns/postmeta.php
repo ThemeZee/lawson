@@ -13,7 +13,7 @@
 	<p><?php _e( 'by', 'lincoln' ); ?></p>
 	<!-- /wp:paragraph -->
 
-	<!-- wp:post-author {"showAvatar":false,"style":{"typography":{"fontWeight":"700"}},"textColor":"dark-gray"} /-->
+	<!-- wp:post-author {"showAvatar":false,"style":{"typography":{"fontWeight":"700"}}} /-->
 
 	<!-- wp:paragraph -->
 	<p>–</p>

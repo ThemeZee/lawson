@@ -693,6 +693,8 @@ Remove CSS when 6.0 is released. */
 	padding: 0.5rem;
 	font-size: var(--wp--preset--font-size--small);
 	min-width: 280px !important;
+	border: 1px solid;
+	border-color: var(--wp--preset--color--background-accent);
 	border-top: 4px solid currentColor;
 }
 
@@ -733,6 +735,8 @@ Remove CSS when 6.0 is released. */
 
 .is-style-top-navigation .wp-block-navigation__responsive-container:not(.is-menu-open) .wp-block-navigation__container > .wp-block-navigation-item .wp-block-navigation__submenu-container {
 	padding: 0.5rem;
+	border: 1px solid;
+	border-color: var(--wp--preset--color--background-accent);
 }
 
 .is-style-top-navigation .wp-block-navigation__responsive-container:not(.is-menu-open) .wp-block-navigation__container > .wp-block-navigation-item .wp-block-navigation__submenu-container .wp-block-navigation-item .wp-block-navigation-item__content {

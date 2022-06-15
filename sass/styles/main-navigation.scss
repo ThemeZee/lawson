@@ -45,6 +45,8 @@
 					padding: 0.5rem;
 					font-size: var(--wp--preset--font-size--small);
 					min-width: 280px !important;
+					border: 1px solid;
+					border-color: var(--wp--preset--color--background-accent);
 					border-top: 4px solid currentColor;
 
 					.wp-block-navigation-item {
