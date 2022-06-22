@@ -201,8 +201,8 @@
 					"radius": "0"
 				},
 				"color": {
-					"background": "var(--wp--preset--color--primary)",
-					"text": "var(--wp--preset--color--background)"
+					"background": "var(--wp--preset--color--secondary)",
+					"text": "var(--wp--preset--color--white)"
 				},
 				"typography": {
 					"fontSize": "var(--wp--custom--typography--font-size--button)"

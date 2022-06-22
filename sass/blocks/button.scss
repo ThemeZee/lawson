@@ -5,13 +5,6 @@
 		text-decoration: underline;
 	}
 
-	&:not(.is-style-outline) .wp-block-button__link:not(.has-background):not(.has-text-color):link,
-	&:not(.is-style-outline) .wp-block-button__link:not(.has-background):not(.has-text-color):visited {
-		color: var(--wp--preset--color--white);
-		background-color: var(--wp--preset--color--secondary);
-		text-decoration: none;
-	}
-
 	&:not(.is-style-outline) .wp-block-button__link:not(.has-background):not(.has-text-color):hover,
 	&:not(.is-style-outline) .wp-block-button__link:not(.has-background):not(.has-text-color):active {
 		color: var(--wp--preset--color--white);
