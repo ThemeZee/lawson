@@ -139,8 +139,8 @@
 				<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 				<!-- /wp:spacer -->
 
-				<!-- wp:group {"style":{"spacing":{"padding":{"top":"3rem","right":"3rem","bottom":"3rem","left":"3rem"}}},"backgroundColor":"white","textColor":"dark-gray"} -->
-				<div class="wp-block-group has-dark-gray-color has-white-background-color has-text-color has-background" style="padding-top:3rem;padding-right:3rem;padding-bottom:3rem;padding-left:3rem">
+				<!-- wp:group {"style":{"spacing":{"padding":{"top":"3rem","right":"3rem","bottom":"3rem","left":"3rem"}}},"backgroundColor":"background","textColor":"foreground"} -->
+				<div class="wp-block-group has-foreground-color has-background-background-color has-text-color has-background" style="padding-top:3rem;padding-right:3rem;padding-bottom:3rem;padding-left:3rem">
 
 					<!-- wp:heading -->
 					<h2><?php _e( 'Hero Headline', 'lincoln' ); ?></h2>
