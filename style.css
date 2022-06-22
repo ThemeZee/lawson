@@ -411,6 +411,10 @@ Remove CSS when 6.0 is released. */
 	padding: 0.5rem;
 }
 
+.wp-block-social-links.is-style-logos-only:not(.has-icon-color) .wp-block-social-link {
+	color: currentColor;
+}
+
 /*--------------------------------------------------------------
 # - Query Blocks
 --------------------------------------------------------------*/
