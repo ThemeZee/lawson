@@ -11,7 +11,7 @@
 <div class="wp-block-group" style="margin-bottom:4vw">
 
 	<!-- wp:heading {"level":1} -->
-	<h1><?php _e( 'Meet Lincoln Business WordPress Block Theme', 'lincoln' ); ?></h1>
+	<h1><?php _e( 'Pursue your passion. Make your dreams come true.', 'lincoln' ); ?></h1>
 	<!-- /wp:heading -->
 
 	<!-- wp:paragraph {"fontSize":"large"} -->
@@ -30,8 +30,8 @@
 			</figure>
 			<!-- /wp:image -->
 
-			<!-- wp:heading {"level":3} -->
-			<h3><?php _e( 'Project One', 'lincoln' ); ?></h3>
+			<!-- wp:heading -->
+			<h2><?php _e( 'Project One', 'lincoln' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
@@ -58,8 +58,8 @@
 			</figure>
 			<!-- /wp:image -->
 
-			<!-- wp:heading {"level":3} -->
-			<h3><?php _e( 'Project Two', 'lincoln' ); ?></h3>
+			<!-- wp:heading -->
+			<h2><?php _e( 'Project Two', 'lincoln' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
@@ -86,8 +86,8 @@
 			</figure>
 			<!-- /wp:image -->
 
-			<!-- wp:heading {"level":3} -->
-			<h3><?php _e( 'Project Three', 'lincoln' ); ?></h3>
+			<!-- wp:heading -->
+			<h2><?php _e( 'Project Three', 'lincoln' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
