@@ -54,8 +54,16 @@ Copyright: 2020 Ari Stathopoulos, WordPress Themes Team
 License: Distributed under the terms of the Open Font License (http://scripts.sil.org/OFL)
 Copyright: Jeremy Tribby
 
-3. Image used in screenshot.png is from StockSnap
+3. Images used in screenshot.jpg are from StockSnap
 
-https://stocksnap.io/photo/architecture-building-RV2H4VBE3L
+a) https://stocksnap.io/photo/architecture-building-YLZ9D6JH3M
+License: Distributed under the terms of the CC0 License (https://creativecommons.org/publicdomain/zero/1.0/)
+Copyright: All Bong (https://stocksnap.io/author/31654)
+
+b) https://stocksnap.io/photo/architecture-building-RV2H4VBE3L
+License: Distributed under the terms of the CC0 License (https://creativecommons.org/publicdomain/zero/1.0/)
+Copyright: Lance Anderson (https://stocksnap.io/author/450)
+
+c) https://stocksnap.io/photo/architecture-building-06SH94UU8W
 License: Distributed under the terms of the CC0 License (https://creativecommons.org/publicdomain/zero/1.0/)
 Copyright: Lance Anderson (https://stocksnap.io/author/450)
