@@ -20,7 +20,7 @@
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p><?php _e( 'Lincoln is a next generation block theme built for the new WordPress Full-Site-Editing experience. It comes with a clean and modern design and is packed with features, including a huge range of block patterns, multiple header and footer block template parts and support for global style variants.', 'lincoln' ); ?></p>
+			<p><?php _e( 'Lincoln is a stunning and elegant theme made for the new WordPress Full Site Editor. The theme is completely built with blocks, comes with great typography and is packed with easy to use block patterns, multiple color schemes and several header and footer templates.', 'lincoln' ); ?></p>
 			<!-- /wp:paragraph -->
 
 		</div>

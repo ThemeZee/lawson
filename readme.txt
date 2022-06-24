@@ -8,11 +8,12 @@ Tested up to: 6.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Lincoln is a next generation block theme built for the new WordPress Full-Site-Editing experience.
+Lincoln is a stunning and elegant theme made for the new WordPress Full Site Editor.
 
 == Description ==
 
-Lincoln is a next generation block theme built for the new WordPress Full-Site-Editing experience. It comes with a clean and modern design and is packed with features, including a huge range of block patterns, multiple header and footer block template parts and support for global style variants.
+Lincoln is a stunning and elegant theme made for the new WordPress Full Site Editor. The theme is completely built with blocks, comes with great typography and is packed with easy to use block patterns, multiple color schemes and several header and footer templates.
+
 For more information about Lincoln please go to https://themezee.com/themes/lincoln/
 
 == Installation ==
@@ -23,13 +24,7 @@ For more information about Lincoln please go to https://themezee.com/themes/linc
 
 == Changelog ==
 
-= 1.0.2 - 2022-06-07 =
-* fixed PHP notice in block editor
-
-= 1.0.1 - 2022-06-02 =
-* updated information about theme screenshot in readme.txt
-
-= 1.0 - 2022-06-01 =
+= 1.0 - 2022-06-24 =
 * Initial Release
 
 == Copyright ==
@@ -55,9 +50,9 @@ Lincoln bundles and uses the following third-party resources:
 License: Distributed under the terms of the MIT License (https://github.com/WPTT/webfont-loader/blob/master/LICENSE)
 Copyright: 2020 Ari Stathopoulos, WordPress Themes Team
 
-2. Roboto Font - https://fonts.google.com/specimen/Roboto
-License: Distributed under the terms of the APACHE LICENSE, VERSION 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-Copyright: Christian Robertson
+2. Barlow Font - https://fonts.google.com/specimen/Barlow
+License: Distributed under the terms of the Open Font License (http://scripts.sil.org/OFL)
+Copyright: Jeremy Tribby
 
 3. Image used in screenshot.png is from StockSnap
 
