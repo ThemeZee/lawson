@@ -1,22 +1,22 @@
 {
-  "name": "lincoln",
+  "name": "lawson",
   "version": "1.0.0",
-  "description": "Lincoln WordPress Theme",
+  "description": "Lawson WordPress Theme",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "export": "git archive HEAD -9 --prefix lincoln/ --format=zip > ../../lincoln.zip"
+    "export": "git archive HEAD -9 --prefix lawson/ --format=zip > ../../lawson.zip"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThemeZee/lincoln.git"
+    "url": "git+https://github.com/ThemeZee/lawson.git"
   },
   "author": "ThemeZee",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ThemeZee/lincoln/issues"
+    "url": "https://github.com/ThemeZee/lawson/issues"
   },
-  "homepage": "https://github.com/ThemeZee/lincoln#readme",
+  "homepage": "https://github.com/ThemeZee/lawson#readme",
   "devDependencies": {
     "autoprefixer": "^9.6.1",
     "gulp": "^4.0.2",

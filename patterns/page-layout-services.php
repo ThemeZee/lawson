@@ -1,9 +1,9 @@
 <?php
 /**
  * Title: Service Page
- * Slug: lincoln/page-layout-services
+ * Slug: lawson/page-layout-services
  * Block Types: core/post-content
- * Categories: lincoln_page_layouts
+ * Categories: lawson_page_layouts
 */
 ?>
 
@@ -11,7 +11,7 @@
 <div class="wp-block-group" style="margin-bottom:4vw">
 
 	<!-- wp:heading {"level":1} -->
-	<h1><?php _e( 'Our Services', 'lincoln' ); ?></h1>
+	<h1><?php _e( 'Our Services', 'lawson' ); ?></h1>
 	<!-- /wp:heading -->
 
 	<!-- wp:paragraph {"fontSize":"large"} -->
@@ -83,8 +83,8 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"http://localhost/wp-content/themes/lincoln/assets/img/default-image.png","isRepeated":true,"dimRatio":80,"contentPosition":"center center"} -->
-<div class="wp-block-cover is-repeated" style="background-image:url(http://localhost/wp-content/themes/lincoln/assets/img/default-image.png)">
+<!-- wp:cover {"url":"http://localhost/wp-content/themes/lawson/assets/img/default-image.png","isRepeated":true,"dimRatio":80,"contentPosition":"center center"} -->
+<div class="wp-block-cover is-repeated" style="background-image:url(http://localhost/wp-content/themes/lawson/assets/img/default-image.png)">
 	<span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim"></span>
 
 	<div class="wp-block-cover__inner-container">
@@ -93,11 +93,11 @@
 	<div class="wp-block-group has-white-color has-text-color" style="padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem">
 
 		<!-- wp:paragraph -->
-		<p><?php _e( 'Add a subtitle here', 'lincoln' ); ?></p>
+		<p><?php _e( 'Add a subtitle here', 'lawson' ); ?></p>
 		<!-- /wp:paragraph -->
 
 		<!-- wp:heading {"level":1,"className":"is-style-underlined-heading"} -->
-		<h1 class="is-style-underlined-heading"><?php _e( 'You are in good hands.', 'lincoln' ); ?></h1>
+		<h1 class="is-style-underlined-heading"><?php _e( 'You are in good hands.', 'lawson' ); ?></h1>
 		<!-- /wp:heading -->
 
 		<!-- wp:paragraph {"fontSize":"medium"} -->
@@ -107,11 +107,11 @@
 		<!-- wp:buttons -->
 		<div class="wp-block-buttons">
 			<!-- wp:button -->
-			<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lincoln' ); ?></a></div>
+			<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lawson' ); ?></a></div>
 			<!-- /wp:button -->
 
 			<!-- wp:button -->
-			<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+			<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 			<!-- /wp:button -->
 		</div>
 		<!-- /wp:buttons -->
@@ -134,7 +134,7 @@
 		<div class="wp-block-column" style="flex-basis:40%">
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'What we offer', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'What we offer', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph {"fontSize":"large"} -->
@@ -154,7 +154,7 @@
 				<div class="wp-block-column">
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Service One', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Service One', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -168,7 +168,7 @@
 				<div class="wp-block-column">
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Service Two', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Service Two', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -188,7 +188,7 @@
 				<div class="wp-block-column">
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Service Three', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Service Three', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -202,7 +202,7 @@
 				<div class="wp-block-column">
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Service Four', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Service Four', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -248,7 +248,7 @@
 
 				<!-- wp:button {"backgroundColor":"white","textColor":"primary","className":"is-style-fill"} -->
 				<div class="wp-block-button is-style-fill">
-					<a class="wp-block-button__link has-primary-color has-white-background-color has-text-color has-background"><?php _e( 'Contact us', 'lincoln' ); ?></a>
+					<a class="wp-block-button__link has-primary-color has-white-background-color has-text-color has-background"><?php _e( 'Contact us', 'lawson' ); ?></a>
 				</div>
 				<!-- /wp:button -->
 
@@ -274,11 +274,11 @@
 		<div class="wp-block-column" style="flex-basis:30%">
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'What clients say', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'What clients say', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p><?php _e( 'What customers <br>think about us.', 'lincoln' ); ?></p>
+			<p><?php _e( 'What customers <br>think about us.', 'lawson' ); ?></p>
 			<!-- /wp:paragraph -->
 
 		</div>

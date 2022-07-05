@@ -1,6 +1,6 @@
-=== Lincoln ===
+=== Lawson ===
 Author URI: https://themezee.com/
-Theme URI: https://themezee.com/themes/lincoln/
+Theme URI: https://themezee.com/themes/lawson/
 Contributors: themezee
 Tags: full-site-editing, template-editing, one-column, blog, news, custom-background, custom-logo, custom-header, custom-menu, grid-layout, entertainment, editor-style, block-styles, block-patterns, rtl-language-support, featured-images, flexible-header, custom-colors, full-width-template, sticky-post, threaded-comments, translation-ready, theme-options, two-columns, three-columns
 Requires at least: 6.0
@@ -8,19 +8,19 @@ Tested up to: 6.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Lincoln is a stunning and elegant theme made for the new WordPress Full Site Editor.
+Lawson is a stunning and elegant theme made for the new WordPress Full Site Editor.
 
 == Description ==
 
-Lincoln is a stunning and elegant theme made for the new WordPress Full Site Editor. The theme is completely built with blocks, comes with great typography and is packed with easy to use block patterns, multiple color schemes and several header and footer templates.
+Lawson is a stunning and elegant theme made for the new WordPress Full Site Editor. The theme is completely built with blocks, comes with great typography and is packed with easy to use block patterns, multiple color schemes and several header and footer templates.
 
-For more information about Lincoln please go to https://themezee.com/themes/lincoln/
+For more information about Lawson please go to https://themezee.com/themes/lawson/
 
 == Installation ==
 
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
 2. Click on the 'Upload Theme' button to upload the ZIP-file of the theme.
-3. Go to https://themezee.com/en/docs/lincoln-documentation/ for a guide on how to use and customize this theme.
+3. Go to https://themezee.com/en/docs/lawson-documentation/ for a guide on how to use and customize this theme.
 
 == Changelog ==
 
@@ -29,8 +29,8 @@ For more information about Lincoln please go to https://themezee.com/themes/linc
 
 == Copyright ==
 
-Lincoln WordPress Theme, Copyright 2022 ThemeZee.de
-Lincoln is distributed under the terms of the GNU GPL
+Lawson WordPress Theme, Copyright 2022 ThemeZee.de
+Lawson is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -44,7 +44,7 @@ GNU General Public License for more details.
 
 == Ressources ==
 
-Lincoln bundles and uses the following third-party resources:
+Lawson bundles and uses the following third-party resources:
 
 1. WPTT Webfont Loader - https://github.com/WPTT/webfont-loader
 License: Distributed under the terms of the MIT License (https://github.com/WPTT/webfont-loader/blob/master/LICENSE)

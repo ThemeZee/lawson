@@ -1,9 +1,9 @@
 <?php
 /**
  * Title: Front Page
- * Slug: lincoln/page-layout-front
+ * Slug: lawson/page-layout-front
  * Block Types: core/post-content
- * Categories: lincoln_page_layouts
+ * Categories: lawson_page_layouts
 */
 ?>
 
@@ -11,7 +11,7 @@
 <div class="wp-block-group" style="margin-bottom:4vw">
 
 	<!-- wp:heading {"level":1} -->
-	<h1><?php _e( 'Pursue your passion. Make your dreams come true.', 'lincoln' ); ?></h1>
+	<h1><?php _e( 'Pursue your passion. Make your dreams come true.', 'lawson' ); ?></h1>
 	<!-- /wp:heading -->
 
 	<!-- wp:paragraph {"fontSize":"large"} -->
@@ -31,7 +31,7 @@
 			<!-- /wp:image -->
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'Project One', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'Project One', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
@@ -41,7 +41,7 @@
 			<!-- wp:buttons -->
 			<div class="wp-block-buttons">
 				<!-- wp:button -->
-				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 				<!-- /wp:button -->
 			</div>
 			<!-- /wp:buttons -->
@@ -59,7 +59,7 @@
 			<!-- /wp:image -->
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'Project Two', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'Project Two', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
@@ -69,7 +69,7 @@
 			<!-- wp:buttons -->
 			<div class="wp-block-buttons">
 				<!-- wp:button -->
-				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 				<!-- /wp:button -->
 			</div>
 			<!-- /wp:buttons -->
@@ -87,7 +87,7 @@
 			<!-- /wp:image -->
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'Project Three', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'Project Three', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
@@ -97,7 +97,7 @@
 			<!-- wp:buttons -->
 			<div class="wp-block-buttons">
 				<!-- wp:button -->
-				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 				<!-- /wp:button -->
 			</div>
 			<!-- /wp:buttons -->
@@ -114,8 +114,8 @@
 <?php
 /**
  * Title: Hero Cover Box
- * Slug: lincoln/hero-cover-box
- * Categories: lincoln_hero
+ * Slug: lawson/hero-cover-box
+ * Categories: lawson_hero
 */
 ?>
 
@@ -143,7 +143,7 @@
 				<div class="wp-block-group has-foreground-color has-background-background-color has-text-color has-background" style="padding-top:3rem;padding-right:3rem;padding-bottom:3rem;padding-left:3rem">
 
 					<!-- wp:heading -->
-					<h2><?php _e( 'Hero Headline', 'lincoln' ); ?></h2>
+					<h2><?php _e( 'Hero Headline', 'lawson' ); ?></h2>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -153,7 +153,7 @@
 					<!-- wp:buttons -->
 					<div class="wp-block-buttons">
 						<!-- wp:button -->
-						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lincoln' ); ?></a></div>
+						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lawson' ); ?></a></div>
 						<!-- /wp:button -->
 					</div>
 					<!-- /wp:buttons -->
@@ -189,7 +189,7 @@
 		<div class="wp-block-column" style="flex-basis:40%">
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'What we offer', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'What we offer', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph {"fontSize":"large"} -->
@@ -209,7 +209,7 @@
 				<div class="wp-block-column">
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Service One', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Service One', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -223,7 +223,7 @@
 				<div class="wp-block-column">
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Service Two', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Service Two', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -243,7 +243,7 @@
 				<div class="wp-block-column">
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Service Three', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Service Three', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -257,7 +257,7 @@
 				<div class="wp-block-column">
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Service Four', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Service Four', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->

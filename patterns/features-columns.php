@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Features Columns
- * Slug: lincoln/features-columns
- * Categories: lincoln_features
+ * Slug: lawson/features-columns
+ * Categories: lawson_features
 */
 ?>
 
@@ -10,7 +10,7 @@
 <div class="wp-block-group" style="margin-bottom:4vw">
 
 	<!-- wp:heading -->
-	<h2><?php _e( 'Why choose us?', 'lincoln' ); ?></h2>
+	<h2><?php _e( 'Why choose us?', 'lawson' ); ?></h2>
 	<!-- /wp:heading -->
 
 	<!-- wp:paragraph {"fontSize":"large"} -->

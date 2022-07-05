@@ -1,9 +1,9 @@
 <?php
 /**
  * Title: Two Columns Grid
- * Slug: lincoln/blog-posts-grid
+ * Slug: lawson/blog-posts-grid
  * Block Types: core/query
- * Categories: lincoln_blog
+ * Categories: lawson_blog
 */
 ?>
 
@@ -21,7 +21,7 @@
 
 			<!-- wp:post-title {"isLink":true,"style":{"spacing":{"margin":{"top":"0.75rem"}}},"fontSize":"x-large"} /-->
 
-			<!-- wp:pattern {"slug":"lincoln/postmeta"} /-->
+			<!-- wp:pattern {"slug":"lawson/postmeta"} /-->
 
 			<!-- wp:post-excerpt {"moreText":"Continue reading &raquo;","style":{"spacing":{"margin":{"bottom":"0px"}}}} /-->
 

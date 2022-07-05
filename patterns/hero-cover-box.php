@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Hero Cover Box
- * Slug: lincoln/hero-cover-box
- * Categories: lincoln_hero
+ * Slug: lawson/hero-cover-box
+ * Categories: lawson_hero
 */
 ?>
 
@@ -30,7 +30,7 @@
 				<div class="wp-block-group has-foreground-color has-background-background-color has-text-color has-background" style="padding-top:3rem;padding-right:3rem;padding-bottom:3rem;padding-left:3rem">
 
 					<!-- wp:heading -->
-					<h2><?php _e( 'Hero Headline', 'lincoln' ); ?></h2>
+					<h2><?php _e( 'Hero Headline', 'lawson' ); ?></h2>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -40,7 +40,7 @@
 					<!-- wp:buttons -->
 					<div class="wp-block-buttons">
 						<!-- wp:button -->
-						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lincoln' ); ?></a></div>
+						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lawson' ); ?></a></div>
 						<!-- /wp:button -->
 					</div>
 					<!-- /wp:buttons -->

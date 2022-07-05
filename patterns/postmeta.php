@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Postmeta
- * Slug: lincoln/postmeta
+ * Slug: lawson/postmeta
  * Inserter: no
 */
 ?>
@@ -10,7 +10,7 @@
 <div class="wp-block-group has-gray-color has-text-color">
 
 	<!-- wp:paragraph -->
-	<p><?php _e( 'by', 'lincoln' ); ?></p>
+	<p><?php _e( 'by', 'lawson' ); ?></p>
 	<!-- /wp:paragraph -->
 
 	<!-- wp:post-author {"showAvatar":false,"style":{"typography":{"fontWeight":"700"}}} /-->

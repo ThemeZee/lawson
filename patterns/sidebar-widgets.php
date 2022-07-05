@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Sidebar Widgets
- * Slug: lincoln/sidebar-widgets
+ * Slug: lawson/sidebar-widgets
  * Inserter: no
 */
 ?>
@@ -10,7 +10,7 @@
 <div class="wp-block-group widget">
 
 	<!-- wp:heading {"fontSize":"large"} -->
-	<h2 class="has-large-font-size"><?php _e( 'Categories', 'lincoln' ); ?></h2>
+	<h2 class="has-large-font-size"><?php _e( 'Categories', 'lawson' ); ?></h2>
 	<!-- /wp:heading -->
 
 	<!-- wp:categories {"className":"is-style-flip-link-hover"} /-->
@@ -22,7 +22,7 @@
 <div class="wp-block-group widget">
 
 	<!-- wp:heading {"fontSize":"large"} -->
-	<h2 class="has-large-font-size"><?php _e( 'Archives', 'lincoln' ); ?></h2>
+	<h2 class="has-large-font-size"><?php _e( 'Archives', 'lawson' ); ?></h2>
 	<!-- /wp:heading -->
 
 	<!-- wp:archives {"className":"is-style-flip-link-hover"} /-->
@@ -34,7 +34,7 @@
 <div class="wp-block-group widget">
 
 	<!-- wp:heading {"fontSize":"large"} -->
-	<h2 class="has-large-font-size"><?php _e( 'Tags', 'lincoln' ); ?></h2>
+	<h2 class="has-large-font-size"><?php _e( 'Tags', 'lawson' ); ?></h2>
 	<!-- /wp:heading -->
 
 	<!-- wp:tag-cloud {"className":"is-style-flip-link-hover"} /-->

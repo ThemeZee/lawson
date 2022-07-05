@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Testimonials Columns
- * Slug: lincoln/testimonials-columns
- * Categories: lincoln_testimonials
+ * Slug: lawson/testimonials-columns
+ * Categories: lawson_testimonials
 */
 ?>
 
@@ -10,7 +10,7 @@
 <div class="wp-block-group" style="margin-bottom:4vw">
 
 	<!-- wp:heading -->
-	<h2><?php _e( 'What clients say', 'lincoln' ); ?></h2>
+	<h2><?php _e( 'What clients say', 'lawson' ); ?></h2>
 	<!-- /wp:heading -->
 
 	<!-- wp:columns {"style":{"spacing":{"blockGap":"2rem"}}} -->

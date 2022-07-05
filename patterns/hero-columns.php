@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Hero Columns
- * Slug: lincoln/hero-columns
- * Categories: lincoln_hero
+ * Slug: lawson/hero-columns
+ * Categories: lawson_hero
 */
 ?>
 
@@ -16,7 +16,7 @@
 		<div class="wp-block-column is-vertically-aligned-center">
 
 			<!-- wp:heading {"level":1,"style":{"spacing":{"margin":{"top":"0px"}}}} -->
-			<h1 style="margin-top:0px"><?php _e( 'Embrace the future. <br>Use Full Site Editing now.', 'lincoln' ); ?></h1>
+			<h1 style="margin-top:0px"><?php _e( 'Embrace the future. <br>Use Full Site Editing now.', 'lawson' ); ?></h1>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph {"fontSize":"medium"} -->
@@ -27,11 +27,11 @@
 			<div class="wp-block-buttons is-style-default">
 
 				<!-- wp:button -->
-				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lincoln' ); ?></a></div>
+				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lawson' ); ?></a></div>
 				<!-- /wp:button -->
 
 				<!-- wp:button -->
-				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 				<!-- /wp:button -->
 
 			</div>

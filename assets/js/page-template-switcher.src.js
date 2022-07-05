@@ -3,7 +3,7 @@
  * 
  * Updates body classes on Gutenberg Editor when page templates are changed.
  * 
- * @package Lincoln
+ * @package Lawson
  */
 
 /**
@@ -29,8 +29,8 @@
 			 return null;
 		 }
  
-		 const fullWidthClass = 'lincoln-fullwidth-page';
-		 const noTitleClass = 'lincoln-no-title-page';
+		 const fullWidthClass = 'lawson-fullwidth-page';
+		 const noTitleClass = 'lawson-no-title-page';
  
 		 if ( 'page-fullwidth' === pageTemplate ) {
 			 document.body.classList.add( fullWidthClass );
@@ -67,7 +67,7 @@
  /**
   * Register plugin in Editor
   */
- registerPlugin( 'lincoln-page-template-switcher', {
+ registerPlugin( 'lawson-page-template-switcher', {
 	 render: plugin,
  } );
  

@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Team Columns
- * Slug: lincoln/team-columns
- * Categories: lincoln_team
+ * Slug: lawson/team-columns
+ * Categories: lawson_team
 */
 ?>
 
@@ -10,11 +10,11 @@
 <div class="wp-block-group" style="margin-bottom:4vw">
 
 	<!-- wp:heading -->
-	<h2><?php _e( 'Our Team', 'lincoln' ); ?></h2>
+	<h2><?php _e( 'Our Team', 'lawson' ); ?></h2>
 	<!-- /wp:heading -->
 
 	<!-- wp:paragraph -->
-	<p><?php _e( 'Meet our professionals and experts.', 'lincoln' ); ?></p>
+	<p><?php _e( 'Meet our professionals and experts.', 'lawson' ); ?></p>
 	<!-- /wp:paragraph -->
 
 	<!-- wp:columns {"style":{"spacing":{"blockGap":"2rem"}}} -->

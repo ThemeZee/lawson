@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer Text
- * Slug: lincoln/footer-text
+ * Slug: lawson/footer-text
  * Inserter: no
 */
 ?>

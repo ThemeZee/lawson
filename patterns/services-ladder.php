@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Services Ladder
- * Slug: lincoln/services-ladder
- * Categories: lincoln_services
+ * Slug: lawson/services-ladder
+ * Categories: lawson_services
 */
 ?>
 
@@ -16,7 +16,7 @@
 		<div class="wp-block-column">
 
 			<!-- wp:heading {"level":3} -->
-			<h3><?php _e( 'Service One', 'lincoln' ); ?></h3>
+			<h3><?php _e( 'Service One', 'lawson' ); ?></h3>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
@@ -34,7 +34,7 @@
 			<!-- /wp:spacer -->
 
 			<!-- wp:heading {"level":3} -->
-			<h3><?php _e( 'Service Two', 'lincoln' ); ?></h3>
+			<h3><?php _e( 'Service Two', 'lawson' ); ?></h3>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
@@ -52,7 +52,7 @@
 			<!-- /wp:spacer -->
 
 			<!-- wp:heading {"level":3} -->
-			<h3><?php _e( 'Service Three', 'lincoln' ); ?></h3>
+			<h3><?php _e( 'Service Three', 'lawson' ); ?></h3>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->

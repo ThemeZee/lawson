@@ -1,9 +1,9 @@
 <?php
 /**
  * Title: About Page
- * Slug: lincoln/page-layout-about
+ * Slug: lawson/page-layout-about
  * Block Types: core/post-content
- * Categories: lincoln_page_layouts
+ * Categories: lawson_page_layouts
 */
 ?>
 
@@ -31,7 +31,7 @@
 				<div class="wp-block-group has-foreground-color has-background-background-color has-text-color has-background" style="padding-top:3rem;padding-right:3rem;padding-bottom:3rem;padding-left:3rem">
 
 					<!-- wp:heading -->
-					<h2><?php _e( 'About us', 'lincoln' ); ?></h2>
+					<h2><?php _e( 'About us', 'lawson' ); ?></h2>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -41,7 +41,7 @@
 					<!-- wp:buttons -->
 					<div class="wp-block-buttons">
 						<!-- wp:button -->
-						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lincoln' ); ?></a></div>
+						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lawson' ); ?></a></div>
 						<!-- /wp:button -->
 					</div>
 					<!-- /wp:buttons -->
@@ -77,11 +77,11 @@
 		<div class="wp-block-column" style="flex-basis:40%">
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'Our Team', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'Our Team', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p><?php _e( 'Meet our professionals and experts.', 'lincoln' ); ?></p>
+			<p><?php _e( 'Meet our professionals and experts.', 'lawson' ); ?></p>
 			<!-- /wp:paragraph -->
 
 		</div>
@@ -179,7 +179,7 @@
 <div class="wp-block-group has-white-color has-primary-background-color has-text-color has-background" style="margin-bottom:1vw;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem">
 
 	<!-- wp:heading {"textAlign":"center","fontSize":"xx-large"} -->
-	<h2 class="has-text-align-center has-xx-large-font-size"><?php _e( 'Join our team', 'lincoln' ); ?></h2>
+	<h2 class="has-text-align-center has-xx-large-font-size"><?php _e( 'Join our team', 'lawson' ); ?></h2>
 	<!-- /wp:heading -->
 
 	<!-- wp:paragraph {"align":"center"} -->
@@ -191,7 +191,7 @@
 
 		<!-- wp:button {"backgroundColor":"white","textColor":"primary","className":"is-style-fill"} -->
 		<div class="wp-block-button is-style-fill">
-			<a class="wp-block-button__link has-primary-color has-white-background-color has-text-color has-background"><?php _e( 'View open positions', 'lincoln' ); ?></a>
+			<a class="wp-block-button__link has-primary-color has-white-background-color has-text-color has-background"><?php _e( 'View open positions', 'lawson' ); ?></a>
 		</div>
 		<!-- /wp:button -->
 

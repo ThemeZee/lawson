@@ -1,13 +1,13 @@
 <?php
 /**
  * Title: Hero Cover
- * Slug: lincoln/hero-cover
- * Categories: lincoln_hero
+ * Slug: lawson/hero-cover
+ * Categories: lawson_hero
 */
 ?>
 
-<!-- wp:cover {"url":"http://localhost/wp-content/themes/lincoln/assets/img/default-image.png","isRepeated":true,"dimRatio":80,"contentPosition":"center center","align":"wide"} -->
-<div class="wp-block-cover alignwide is-repeated" style="background-image:url(http://localhost/wp-content/themes/lincoln/assets/img/default-image.png)">
+<!-- wp:cover {"url":"http://localhost/wp-content/themes/lawson/assets/img/default-image.png","isRepeated":true,"dimRatio":80,"contentPosition":"center center","align":"wide"} -->
+<div class="wp-block-cover alignwide is-repeated" style="background-image:url(http://localhost/wp-content/themes/lawson/assets/img/default-image.png)">
 	<span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim"></span>
 
 	<div class="wp-block-cover__inner-container">
@@ -16,11 +16,11 @@
 	<div class="wp-block-group has-white-color has-text-color" style="padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem">
 
 		<!-- wp:paragraph -->
-		<p><?php _e( 'Add a subtitle here', 'lincoln' ); ?></p>
+		<p><?php _e( 'Add a subtitle here', 'lawson' ); ?></p>
 		<!-- /wp:paragraph -->
 
 		<!-- wp:heading {"level":1,"className":"is-style-underlined-heading"} -->
-		<h1 class="is-style-underlined-heading"><?php _e( 'Hero Headline', 'lincoln' ); ?></h1>
+		<h1 class="is-style-underlined-heading"><?php _e( 'Hero Headline', 'lawson' ); ?></h1>
 		<!-- /wp:heading -->
 
 		<!-- wp:paragraph {"fontSize":"medium"} -->
@@ -30,11 +30,11 @@
 		<!-- wp:buttons -->
 		<div class="wp-block-buttons">
 			<!-- wp:button -->
-			<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lincoln' ); ?></a></div>
+			<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Join now', 'lawson' ); ?></a></div>
 			<!-- /wp:button -->
 
 			<!-- wp:button -->
-			<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+			<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 			<!-- /wp:button -->
 		</div>
 		<!-- /wp:buttons -->

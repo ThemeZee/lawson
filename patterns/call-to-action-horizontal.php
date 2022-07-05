@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Call to Action Horizontal
- * Slug: lincoln/call-to-action-horizontal
- * Categories: lincoln_cta
+ * Slug: lawson/call-to-action-horizontal
+ * Categories: lawson_cta
 */
 ?>
 
@@ -30,7 +30,7 @@
 
 				<!-- wp:button {"backgroundColor":"white","textColor":"primary","className":"is-style-fill"} -->
 				<div class="wp-block-button is-style-fill">
-					<a class="wp-block-button__link has-primary-color has-white-background-color has-text-color has-background"><?php _e( 'Join now', 'lincoln' ); ?></a>
+					<a class="wp-block-button__link has-primary-color has-white-background-color has-text-color has-background"><?php _e( 'Join now', 'lawson' ); ?></a>
 				</div>
 				<!-- /wp:button -->
 

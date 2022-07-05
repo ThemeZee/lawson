@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Portfolio Double
- * Slug: lincoln/portfolio-double
- * Categories: lincoln_portfolio
+ * Slug: lawson/portfolio-double
+ * Categories: lawson_portfolio
 */
 ?>
 
@@ -22,7 +22,7 @@
 			<!-- /wp:image -->
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'Project One', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'Project One', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
@@ -32,7 +32,7 @@
 			<!-- wp:buttons -->
 			<div class="wp-block-buttons">
 				<!-- wp:button -->
-				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 				<!-- /wp:button -->
 			</div>
 			<!-- /wp:buttons -->
@@ -54,7 +54,7 @@
 			<!-- /wp:image -->
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'Project Two', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'Project Two', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
@@ -64,7 +64,7 @@
 			<!-- wp:buttons -->
 			<div class="wp-block-buttons">
 				<!-- wp:button -->
-				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+				<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 				<!-- /wp:button -->
 			</div>
 			<!-- /wp:buttons -->

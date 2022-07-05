@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Team List
- * Slug: lincoln/team-list
- * Categories: lincoln_team
+ * Slug: lawson/team-list
+ * Categories: lawson_team
 */
 ?>
 
@@ -16,11 +16,11 @@
 		<div class="wp-block-column" style="flex-basis:40%">
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'Our Team', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'Our Team', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p><?php _e( 'Meet our professionals and experts.', 'lincoln' ); ?></p>
+			<p><?php _e( 'Meet our professionals and experts.', 'lawson' ); ?></p>
 			<!-- /wp:paragraph -->
 
 		</div>

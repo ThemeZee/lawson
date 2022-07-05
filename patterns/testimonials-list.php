@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Testimonials List
- * Slug: lincoln/testimonials-list
- * Categories: lincoln_testimonials
+ * Slug: lawson/testimonials-list
+ * Categories: lawson_testimonials
 */
 ?>
 
@@ -16,11 +16,11 @@
 		<div class="wp-block-column" style="flex-basis:30%">
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'What clients say', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'What clients say', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph -->
-			<p><?php _e( 'What customers <br>think about us.', 'lincoln' ); ?></p>
+			<p><?php _e( 'What customers <br>think about us.', 'lawson' ); ?></p>
 			<!-- /wp:paragraph -->
 
 		</div>

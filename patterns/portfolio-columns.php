@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Portfolio Columns
- * Slug: lincoln/portfolio-columns
- * Categories: lincoln_portfolio
+ * Slug: lawson/portfolio-columns
+ * Categories: lawson_portfolio
 */
 ?>
 
@@ -16,7 +16,7 @@
 		<div class="wp-block-column" style="flex-basis:40%">
 
 			<!-- wp:heading -->
-			<h2><?php _e( 'What we have done', 'lincoln' ); ?></h2>
+			<h2><?php _e( 'What we have done', 'lawson' ); ?></h2>
 			<!-- /wp:heading -->
 
 			<!-- wp:paragraph {"fontSize":"large"} -->
@@ -42,7 +42,7 @@
 					<!-- /wp:image -->
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Project One', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Project One', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -52,7 +52,7 @@
 					<!-- wp:buttons -->
 					<div class="wp-block-buttons">
 						<!-- wp:button -->
-						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 						<!-- /wp:button -->
 					</div>
 					<!-- /wp:buttons -->
@@ -70,7 +70,7 @@
 					<!-- /wp:image -->
 
 					<!-- wp:heading {"level":3} -->
-					<h3><?php _e( 'Project Two', 'lincoln' ); ?></h3>
+					<h3><?php _e( 'Project Two', 'lawson' ); ?></h3>
 					<!-- /wp:heading -->
 
 					<!-- wp:paragraph -->
@@ -80,7 +80,7 @@
 					<!-- wp:buttons -->
 					<div class="wp-block-buttons">
 						<!-- wp:button -->
-						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lincoln' ); ?></a></div>
+						<div class="wp-block-button"><a class="wp-block-button__link"><?php _e( 'Learn more', 'lawson' ); ?></a></div>
 						<!-- /wp:button -->
 					</div>
 					<!-- /wp:buttons -->
