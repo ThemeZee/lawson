@@ -9,6 +9,10 @@
 	}
 
 	.wp-block-navigation__responsive-container:not(.is-menu-open) {
+		.wp-block-navigation__responsive-close {
+			max-width: 100%;
+		}
+
 		.wp-block-navigation__container {
 			gap: 0 1.25rem;
 

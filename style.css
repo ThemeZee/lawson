@@ -4,9 +4,9 @@ Theme URI: https://themezee.com/themes/lawson/
 Author: ThemeZee
 Author URI: https://themezee.com/
 Description: Lawson is a stunning and elegant theme made for the new WordPress Full Site Editor. The theme is completely built with blocks, comes with great typography and is packed with easy to use block patterns, multiple color schemes and several header and footer templates.
-Version: 1.0
+Version: 1.0.1
 Requires at least: 6.0
-Tested up to: 6.0
+Tested up to: 6.1
 Requires PHP: 5.6
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -664,6 +664,10 @@ Remove CSS when 6.0 is released. */
 
 .is-style-main-navigation .wp-block-navigation__responsive-container-open {
 	padding: 1rem 0.5rem;
+}
+
+.is-style-main-navigation .wp-block-navigation__responsive-container:not(.is-menu-open) .wp-block-navigation__responsive-close {
+	max-width: 100%;
 }
 
 .is-style-main-navigation .wp-block-navigation__responsive-container:not(.is-menu-open) .wp-block-navigation__container {
